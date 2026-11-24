@@ -1,2 +1,2 @@
 # FAAH! Sound Button
-Aplikasi Android native Java dengan tombol FAAH dan audio offline. Build APK melalui GitHub Actions.
+Android 6+ native Java. Download FAAH-APK from GitHub Actions after a successful build.
